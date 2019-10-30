@@ -5,3 +5,5 @@ Bar
 # Some other content
 Blo
 Some foo content
+- Blo
+- Some foo content
